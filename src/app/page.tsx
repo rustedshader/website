@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div>
       <div className="space-x-34 text-center underline">
-        <Link href={"/Home"}>Home</Link>
+        <Link href={"/"}>Home</Link>
         <Link href={"/blogs"}>Blogs</Link>
         <Link href={"/photos"}>Photos</Link>
         <Link href={"/contact"}>Contact</Link>
