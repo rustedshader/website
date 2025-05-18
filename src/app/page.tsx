@@ -23,6 +23,7 @@ export default function Home() {
           <div className="font-bold text-1xl">I create cool software. My work can be seen on my git</div>
           <div>I specialize in Python and Full Stack Development.</div>
           <div className="mb-4">I am currently learning and developing in Go and Rust.</div>
+          <div className="text-8xl">This website is not ready yet :( </div>
         </div>
       </div>
     </div>
